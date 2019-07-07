@@ -1,0 +1,12 @@
+C:\Users\Katya\source\repos\bubble sort\bubble sort\bin\Debug\netcoreapp2.1\bubble sort.deps.json
+C:\Users\Katya\source\repos\bubble sort\bubble sort\bin\Debug\netcoreapp2.1\bubble sort.runtimeconfig.json
+C:\Users\Katya\source\repos\bubble sort\bubble sort\bin\Debug\netcoreapp2.1\bubble sort.runtimeconfig.dev.json
+C:\Users\Katya\source\repos\bubble sort\bubble sort\bin\Debug\netcoreapp2.1\bubble sort.dll
+C:\Users\Katya\source\repos\bubble sort\bubble sort\bin\Debug\netcoreapp2.1\bubble sort.pdb
+C:\Users\Katya\source\repos\bubble sort\bubble sort\obj\Debug\netcoreapp2.1\bubble sort.csprojAssemblyReference.cache
+C:\Users\Katya\source\repos\bubble sort\bubble sort\obj\Debug\netcoreapp2.1\bubble sort.csproj.CoreCompileInputs.cache
+C:\Users\Katya\source\repos\bubble sort\bubble sort\obj\Debug\netcoreapp2.1\bubble sort.AssemblyInfoInputs.cache
+C:\Users\Katya\source\repos\bubble sort\bubble sort\obj\Debug\netcoreapp2.1\bubble sort.AssemblyInfo.cs
+C:\Users\Katya\source\repos\bubble sort\bubble sort\obj\Debug\netcoreapp2.1\bubble sort.dll
+C:\Users\Katya\source\repos\bubble sort\bubble sort\obj\Debug\netcoreapp2.1\bubble sort.pdb
+C:\Users\Katya\source\repos\bubble sort\bubble sort\bin\Debug\netcoreapp2.1\input-data.json
