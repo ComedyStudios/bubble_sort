@@ -10,3 +10,15 @@ C:\Users\Katya\source\repos\bubble sort\bubble sort\obj\Debug\netcoreapp2.1\bubb
 C:\Users\Katya\source\repos\bubble sort\bubble sort\obj\Debug\netcoreapp2.1\bubble sort.dll
 C:\Users\Katya\source\repos\bubble sort\bubble sort\obj\Debug\netcoreapp2.1\bubble sort.pdb
 C:\Users\Katya\source\repos\bubble sort\bubble sort\bin\Debug\netcoreapp2.1\input-data.json
+D:\Mischa\github\bubble_sort\bubble sort\bubble sort\bin\Debug\netcoreapp2.1\input-data.json
+D:\Mischa\github\bubble_sort\bubble sort\bubble sort\bin\Debug\netcoreapp2.1\bubble sort.deps.json
+D:\Mischa\github\bubble_sort\bubble sort\bubble sort\bin\Debug\netcoreapp2.1\bubble sort.runtimeconfig.json
+D:\Mischa\github\bubble_sort\bubble sort\bubble sort\bin\Debug\netcoreapp2.1\bubble sort.runtimeconfig.dev.json
+D:\Mischa\github\bubble_sort\bubble sort\bubble sort\bin\Debug\netcoreapp2.1\bubble sort.dll
+D:\Mischa\github\bubble_sort\bubble sort\bubble sort\bin\Debug\netcoreapp2.1\bubble sort.pdb
+D:\Mischa\github\bubble_sort\bubble sort\bubble sort\obj\Debug\netcoreapp2.1\bubble sort.csprojAssemblyReference.cache
+D:\Mischa\github\bubble_sort\bubble sort\bubble sort\obj\Debug\netcoreapp2.1\bubble sort.csproj.CoreCompileInputs.cache
+D:\Mischa\github\bubble_sort\bubble sort\bubble sort\obj\Debug\netcoreapp2.1\bubble sort.AssemblyInfoInputs.cache
+D:\Mischa\github\bubble_sort\bubble sort\bubble sort\obj\Debug\netcoreapp2.1\bubble sort.AssemblyInfo.cs
+D:\Mischa\github\bubble_sort\bubble sort\bubble sort\obj\Debug\netcoreapp2.1\bubble sort.dll
+D:\Mischa\github\bubble_sort\bubble sort\bubble sort\obj\Debug\netcoreapp2.1\bubble sort.pdb

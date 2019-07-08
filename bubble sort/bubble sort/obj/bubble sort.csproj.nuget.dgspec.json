@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Katya\\source\\repos\\bubble sort\\bubble sort\\bubble sort.csproj": {}
+    "D:\\Mischa\\github\\bubble_sort\\bubble sort\\bubble sort\\bubble sort.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Katya\\source\\repos\\bubble sort\\bubble sort\\bubble sort.csproj": {
+    "D:\\Mischa\\github\\bubble_sort\\bubble sort\\bubble sort\\bubble sort.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Katya\\source\\repos\\bubble sort\\bubble sort\\bubble sort.csproj",
+        "projectUniqueName": "D:\\Mischa\\github\\bubble_sort\\bubble sort\\bubble sort\\bubble sort.csproj",
         "projectName": "bubble sort",
-        "projectPath": "C:\\Users\\Katya\\source\\repos\\bubble sort\\bubble sort\\bubble sort.csproj",
+        "projectPath": "D:\\Mischa\\github\\bubble_sort\\bubble sort\\bubble sort\\bubble sort.csproj",
         "packagesPath": "C:\\Users\\Katya\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Katya\\source\\repos\\bubble sort\\bubble sort\\obj\\",
+        "outputPath": "D:\\Mischa\\github\\bubble_sort\\bubble sort\\bubble sort\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\ProgramData\\Xamarin\\NuGet\\",
@@ -50,7 +50,7 @@
             },
             "Newtonsoft.Json": {
               "target": "Package",
-              "version": "[12.0.1, )"
+              "version": "[12.0.2, )"
             }
           },
           "imports": [
